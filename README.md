@@ -7,10 +7,10 @@ Here are some ideas to get you started:
 -->
 
 ## Awards
-• Excellence Award, 2024 DSC Big Data/AI Hackaton
-• Encouragement Award, CNU Work Efficiency Competition
-• Encouragement Award, 2025 SW-centered University Digital Competition
-• Encouragement Award, CNU Generative Artificial Intelligence Challenge
+• Excellence Award, 2024 DSC Big Data/AI Hackaton"\n"
+• Encouragement Award, CNU Work Efficiency Competition"\n"
+• Encouragement Award, 2025 SW-centered University Digital Competition"\n"
+• Encouragement Award, CNU Generative Artificial Intelligence Challenge"\n"
 
 ## Activities
 President, SPG club, March 2025 – present
